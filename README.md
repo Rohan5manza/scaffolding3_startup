@@ -42,3 +42,9 @@ python app.py
 Open in your browser
 
 Go to http://localhost:5000 to access the web interface.
+
+Screenshots of working application : 
+
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/125188ae-2fe1-4e10-9b56-0f098c66eddd" />
+
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/c2185f5f-3f18-421e-981e-599ad31af2db" />
